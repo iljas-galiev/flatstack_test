@@ -30,7 +30,7 @@ _P.S Автотестами программа не покрыта_
 
 JS на базовом уровне, в своих проектах использую jQuery
 
-###Мои проекты
+### Мои проекты
 
 * Бэкенд кэшбэк раздела [skidka-plus.com](https://skidka-plus.com/getcashback/)
 * Платформа вай-фай магнит [platforma.leads-radar.ru](http://demo.platforma.leads-radar.ru/)
